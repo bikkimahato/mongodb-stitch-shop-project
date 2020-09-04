@@ -9,7 +9,7 @@
     "bson": "^4.0.2",
     "express": "^4.16.3",
     "jsonwebtoken": "^8.3.0",
-    "mongodb": "^3.1.6",
+    "mongodb": "^3.1.13",
     "mongodb-stitch-browser-sdk": "^4.6.0",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
